@@ -24,7 +24,7 @@ Con los comandos
 
 ```
 cd $HOME 
-mr -rf ngrokpre
+rm -rf ngrokpre
 ```
 
 Una vez terminado el proceso ya podremos entrar a termux y escribir
