@@ -19,6 +19,14 @@ bash instalar-termux.sh
 cd $HOME
 ```
 
+Si quieres puedes eliminar la carpeta que ya no sirve 
+Con los comandos
+
+```
+cd $HOME 
+mr -rf ngrokpre
+```
+
 Una vez terminado el proceso ya podremos entrar a termux y escribir
 
 ```
@@ -28,10 +36,3 @@ Cómo ejemplo para verificar que funciona.
 
 Eso es todo, los tkm <3
 
-Si quieres puedes eliminar la carpeta que ya no sirve 
-Con los comandos
-
-```
-cd $HOME 
-mr -rf ngrokpre
-```
