@@ -1,5 +1,5 @@
 # ngrokpre
-Está herramienta diseñada para instalar ngrok de una forma más rápida y efectiva en termux
+Está herramienta diseñada para instalar ngrok de una forma más rápida, sin errores y efectiva en termux
 
 
 Antes de instalar esta herramienta necesitamos
