@@ -1,6 +1,9 @@
-echo 'instalando [+]>>'
-echo 'creando permisos'
+echo 'instalando [+] >>>'
+echo 'creando permisos [+] >>'
 chmod 777 ngrok
-echo 'cambiando a directorio raiz'
+echo 'cambiando datos a directorio raiz [+] >>>'
 cp ngrok $HOME 
-echo 'proceso completado, tkm <3'
+cp LICENSE $HOME
+echo ''
+echo 'proceso completado, tkm <3 [+] >>>'
+echo ''
