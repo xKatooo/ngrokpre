@@ -32,7 +32,8 @@ Una vez terminado el proceso ya podremos entrar a termux y escribir
 ```
 ./ngrok http 80
 ```
-Cómo ejemplo para verificar que funciona.
+
+Sin tener que entrar a ninguna otra carpeta 
 
 Eso es todo, los tkm <3
 
