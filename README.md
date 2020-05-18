@@ -27,11 +27,12 @@ cd $HOME
 rm -rf ngrokpre
 ```
 
-Una vez terminado el proceso ya podremos entrar a termux y escribir
+Una vez terminado el proceso ya podremos entrar a termux y usarlo sin más dilatación
 
-```
-./ngrok http 80
-```
+# USO
+
+Puedes leer toda la documentación de uso y otras cosas en la web original de termux
+<a href="https://ngrok.com/docs">click aquí para ir</a>
 
 Sin tener que entrar a ninguna otra carpeta 
 
