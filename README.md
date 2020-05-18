@@ -6,7 +6,7 @@ Antes de instalar esta herramienta necesitamos
 ya tener instalado git, si no lo tienes instalado
 ejecuta
 ```
-pkg install -y git
+apt-get -y install git &>> install.log
 ```
 cuando tengas instalado git puedes continuar con
 la instalación de esta herramienta
