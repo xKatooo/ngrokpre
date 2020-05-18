@@ -16,6 +16,7 @@ la instalación de esta herramienta
 git clone https://github.com/xKatooo/ngrokpre.git
 cd ngrokpre
 bash instalar-termux.sh
+cd $HOME
 ```
 
 Una vez terminado el proceso ya podremos entrar a termux y escribir
