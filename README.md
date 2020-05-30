@@ -1,6 +1,8 @@
 # ngrokpre
 Está herramienta diseñada para instalar ngrok de una forma más rápida, sin errores y efectiva en termux
 
+Está herramienta también soluciona el problema "Reconectando"
+
 
 Antes de instalar esta herramienta necesitamos
 ya tener instalado git, si no lo tienes instalado
