@@ -5,7 +5,7 @@ chmod 777 ngrok
 echo 'cambiando datos a directorio raiz [+] >>>'
 cp ngrok $HOME 
 read -p "Desea que el programa se haga path? s/n: " option
-if [ "$option" == "s" or "$option" == "S" ];
+if [ "$option" == "s"] || ["$option" == "S" ];
 then
         echo 'Haciendo path el programa [+] >>>'
         cp ngrok ../usr/bin/
