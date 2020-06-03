@@ -36,7 +36,18 @@ Una vez terminado el proceso ya podremos entrar a termux y usarlo sin más dilat
 Puedes leer toda la documentación de uso y otras cosas en la web original de termux
 <a href="https://ngrok.com/docs">click aquí para ir</a>
 
-Sin tener que entrar a ninguna otra carpeta 
+### Si hiciste path el programa puedes solo escribir 
+```
+ngrok http 80
+```
+por ejemplo y correrá sin necesidad de estar en el $HOME o tener el archivo en la carpeta del script
+
+### Si no hiciste path el programa
+Si no lo hiciste path puedes usarlo solo si tienes el ngrok dentro de la carpeta de tu script y usando el comando
+```
+./ngrok http 80
+```
+Por ejemplo 
 
 Eso es todo, los tkm <3
 
