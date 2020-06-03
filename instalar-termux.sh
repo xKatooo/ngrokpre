@@ -7,7 +7,7 @@ cp ngrok $HOME
 read -p "Desea que el programa se haga path? s/n: " option
 if [ "$option" == "s"] || ["$option" == "S" ];
 then
-        echo 'Haciendo path el programa [+] >>>'
+        echo 'Instalando el programa en el path [+] >>>'
         cp ngrok ../usr/bin/
 else
         echo 'okay xd'
