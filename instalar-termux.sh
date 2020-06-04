@@ -13,6 +13,8 @@ else
         echo 'okay xd'
 fi
 cp LICENSE $HOME
+cd $HOME
+rm -rf ngrokpre
 echo ''
 echo 'proceso completado, tkm <3 [+] >>>'
 echo ''
