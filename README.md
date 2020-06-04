@@ -32,10 +32,10 @@ Puedes leer toda la documentación de uso y otras cosas en la web original de te
 ```
 ngrok http 80
 ```
-por ejemplo y correrá sin necesidad de estar en el $HOME o tener el archivo en la carpeta del script
+por ejemplo y correrá sin necesidad de estar en el $HOME o tener el archivo ngrok en la carpeta del script
 
 ### Si no hiciste path el programa
-Si no lo hiciste path puedes usarlo solo si tienes el ngrok dentro de la carpeta de tu script y usando el comando
+Si no lo hiciste path puedes usarlo solo si tienes el archivo ngrok dentro de la carpeta de tu script y usando el comando
 ```
 ./ngrok http 80
 ```
