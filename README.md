@@ -21,14 +21,6 @@ bash instalar-termux.sh
 cd $HOME
 ```
 
-Si quieres puedes eliminar la carpeta que ya no sirve 
-Con los comandos
-
-```
-cd $HOME 
-rm -rf ngrokpre
-```
-
 Una vez terminado el proceso ya podremos entrar a termux y usarlo sin más dilatación
 
 # USO
