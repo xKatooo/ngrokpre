@@ -25,7 +25,7 @@ Una vez terminado el proceso ya podremos entrar a termux y usarlo sin más dilat
 
 # USO
 
-Puedes leer toda la documentación de uso y otras cosas en la web original de termux
+Puedes leer toda la documentación de uso y otras cosas en la web original de ngrok
 <a href="https://ngrok.com/docs">click aquí para ir</a>
 
 ### solo escribe
